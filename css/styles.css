@@ -1,19 +1,4 @@
-:root{
-    --iris-color: #4D5AE5;
-    --ocean-color:#404BBF;
-    --navyblue-color:#2E2F42;
-    --green-color: #31D0AA;
-    --slate-color:#434455;
-    --light-slate-color:#8E8F99;
-    --cornflower-color:#E7E9FC;
-    --cloud-color:#F4F4FD;
-    --navyblue-modal-color:rgba(46, 47, 66, 0.4);
-    --grey-color:rgba(46, 47, 66, 0.7);
-    --white-color:#FFFFFF;
-    --dairy-color:#FCFCFC;
-}
- 
-body {
+ body {
     font-family: 'Roboto',sans-serif;
     color: #434455;
     background-color: #FFFFFF;
